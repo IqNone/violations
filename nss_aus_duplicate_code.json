@@ -1,0 +1,63 @@
+{
+    "instances": [
+     {
+            "id": 52624550,
+            "priority": 11,
+            "instances": [
+                {
+                    "id": 52624550,
+                    "priority": 11,
+                    "package": "com.concordefs.tol.daos.hibernate.queries",
+                    "start_line": 104,
+                    "end_line": 137,
+                    "is_test_file": false,
+                    "file_path": "src/src/com/concordefs/tol/daos/hibernate/queries/IncidentSummaryQuery.java"
+                },
+                {
+                    "id": 52624551,
+                    "priority": 11,
+                    "package": "com.concordefs.tol.daos.hibernate.queries",
+                    "start_line": 121,
+                    "end_line": 154,
+                    "is_test_file": false,
+                    "file_path": "src/src/com/concordefs/tol/daos/hibernate/queries/ChronicIncidentQuery.java"
+                }
+            ],
+            "is_test_file": false
+        },
+        {
+            "id": 52624546,
+            "priority": 34,
+            "instances": [
+                {
+                    "id": 52624546,
+                    "priority": 34,
+                    "package": "com.concordefs.tol.remedy.midtier.tolepsincidentreportingws",
+                    "start_line": 1708,
+                    "end_line": 1756,
+                    "is_test_file": false,
+                    "file_path": "src/src/com/concordefs/tol/remedy/midtier/tolepsincidentreportingws/SetInputMap.java"
+                },
+                {
+                    "id": 52624547,
+                    "priority": 34,
+                    "package": "com.concordefs.tol.remedy.midtier.serviceinstructionsws",
+                    "start_line": 2992,
+                    "end_line": 3045,
+                    "is_test_file": false,
+                    "file_path": "src/src/com/concordefs/tol/remedy/midtier/serviceinstructionsws/SetInputMap.java"
+                },
+                {
+                    "id": 52624548,
+                    "priority": 34,
+                    "package": "com.concordefs.tol.remedy.midtier.tolepsincidentreportingws",
+                    "start_line": 590,
+                    "end_line": 638,
+                    "is_test_file": false,
+                    "file_path": "src/src/com/concordefs/tol/remedy/midtier/tolepsincidentreportingws/CreateInputMap.java"
+                }
+            ],
+            "is_test_file": false
+        }
+    ]
+}
